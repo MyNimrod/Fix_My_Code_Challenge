@@ -59,3 +59,14 @@ $ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
 -1
 $
 
+### 3-user.py
+
+ Please find here my implementation of a User class in Python: source code
+
+Something is going wrong….
+
+$ ./3-user.py 
+Test User
+is_valid_password should return True if it's the right password
+$
+My tests should not print any error…
